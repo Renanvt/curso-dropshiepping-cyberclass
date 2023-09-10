@@ -203,7 +203,6 @@ Escolher um anúncio e clickar em saiba mais para ir na página do anunciante
 
 11 - Verifique na extensão facebook pixel helper se o "purchase" foi ativo
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 2 - Analisar página do anunciante dropshieping
 
@@ -221,7 +220,6 @@ Com a extensão Ali Hunter podemos analisar a pagina do anunciante dropshieping 
 
 6- Em orders consigo ver as últimas vendas dessa loja. Só tenho direito a ver 5 orders, caso contrário, tenho que pagar
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 3 - Usar a ferramenta de anúncios do facebook 
 
@@ -233,13 +231,11 @@ Entro na pagina do anunciante
 
 Combino as extensões Ali Hunter e Facebook Pixel Helper
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 4 - Utilizar o mercado livre tendências 
 
 tendencias.mercadolivre.com
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 5 - Utilizo o site gringo abaixo para minerar produtos que são importados
 
@@ -247,13 +243,11 @@ asseenontvlive.com
 
 ecomhunt.com
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 6 - Utilizo o site abaixo para minerar produtos brasileiros:
 
 polishop.com.br
 
-# [👆 TÓPICOS](#tópicos)
 
 ## 7 - Utilizar plataformas pagas
 
