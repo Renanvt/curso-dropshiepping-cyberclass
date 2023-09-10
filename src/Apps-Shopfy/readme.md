@@ -19,8 +19,8 @@
 
 **O segredo do drop é modelar oque ja estão vendendo**
 
-![Dasers Configuração](../img/../../img/Dsers%20Configurar.png)
+![Dasers Configuração](../../img/Dsers%20Configurar.png)
 
-![Dases Configuração](../img/../../img/Dsers%20Configurar%202.png)
+![Dases Configuração](../../img/Dsers%20Configurar%202.png)
 
 ![Push Produto](../../img/Push%20Produtos.png)
