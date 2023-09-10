@@ -17,17 +17,6 @@
 
 [Ferramenta para minerar produtos](#ferramentas-para-minerar-produto)
 
-[Analisar página do anunciante dropshieping](#2---analisar-página-do-anunciante-dropshieping)
-
-[3 - Usar a ferramenta de anúncios do facebook ](#3---usar-a-ferramenta-de-anúncios-do-facebook)
-
-[4 - Utilizar o mercado livre tendências ](#4---utilizar-o-mercado-livre-tendências)
-
-[5 - Utilizo o site gringo abaixo para minerar produtos que são importados](#5---utilizo-o-site-gringo-abaixo-para-minerar-produtos-que-são-importados)
-
-[6 - Utilizo o site abaixo para minerar produtos brasileiros](#6---utilizo-o-site-abaixo-para-minerar-produtos-brasileiros)
-
-[7 - Utilizar plataformas pagas](#7---utilizar-plataformas-pagas)
 
 # Mineração de produtos
 
