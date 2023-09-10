@@ -1,4 +1,4 @@
-[⬅️](../README.md)
+[⬅️]([../README.md](https://github.com/Renanvt/curso-dropshiepping-cyberclass/blob/main/README.md))
 # Tópicos
 
 [Oque vende mais? Loja genérica ou loja nichada?](#oque-vende-mais-loja-genérica-ou-loja-nichada)
