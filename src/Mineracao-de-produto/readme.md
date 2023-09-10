@@ -1,5 +1,3 @@
-# Mineração de produtos
-
 # Tópicos
 
 [Oque vende mais? Loja genérica ou loja nichada?](#oque-vende-mais-loja-genérica-ou-loja-nichada)
@@ -29,6 +27,9 @@
 [6 - Utilizo o site abaixo para minerar produtos brasileiros](#6---utilizo-o-site-abaixo-para-minerar-produtos-brasileiros)
 
 [7 - Utilizar plataformas pagas](#7---utilizar-plataformas-pagas)
+
+# Mineração de produtos
+
 
 É de extrema importância você separar um dia da semana para minerar produtos 
 
