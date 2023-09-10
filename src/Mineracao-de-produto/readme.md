@@ -1,3 +1,4 @@
+[⬅️](./readme.md)
 # Tópicos
 
 [Oque vende mais? Loja genérica ou loja nichada?](#oque-vende-mais-loja-genérica-ou-loja-nichada)
@@ -47,6 +48,8 @@ Produtos grandes e pesados, ideal produtos abaixo de 4kg
 
 Produtos de público cético (pessoas que não acreditam mais no produto por determinada situação ou circunstancia )
 
+# [👆 TÓPICOS](#tópicos)
+
 ## Oque vende mais? Loja genérica ou loja nichada?
 
 Loja genérica -  Vende tudo e não tem um só público definido 
@@ -65,6 +68,8 @@ Você pode vender oque quizer para diversos públicos
 **Desvatagens loja genérica**
 
 Cliente vai comprar na tua loja mais depois vai esquecer que ela existe e nunca mais irá entrar na sua loja
+
+# [👆 TÓPICOS](#tópicos)
 
 ## Os principais nichos do Brasil
 
@@ -86,6 +91,8 @@ Luz de led solar
 **Gamer** 
 
 Trabalhe com produtos de ticket mais baixo no inicio, de até 200 reais
+
+# [👆 TÓPICOS](#tópicos)
 
 ## Esteira de produtos 
 
@@ -111,6 +118,8 @@ Analiso tudo oque meus concorrentes estão fazendo pego os melhores criativos e 
 Exemplo, pego o sugador de cravos que é da categoria estética/beleza e saúde e troco para caregoria kid e troco o nome do produto para 
 Sugador de meleca de bebê 
 
+# [👆 TÓPICOS](#tópicos)
+
 ## Como descobrir um fornecedor confiável 
 
 Pesquiso na EliExpress por um produto vencedor
@@ -126,7 +135,9 @@ Procure outros fornecedores que vendem o mesmo tipo de produto e vejo as avalia�
 
 Verificar quanto tempo essa loja está ativa na Aliexpress, no mínimo 1 ano é ideal
 
-Ver oque as pessoas estão comentando sobre o produto 
+Ver oque as pessoas estão comentando sobre o produto
+
+# [👆 TÓPICOS](#tópicos)
 
 ## Como descobrir um fornecedor barato
 
@@ -148,6 +159,8 @@ www.alivera.com
 
 Baixe a imagem de um produto na Aliexpress e jogue nesse site e pesquise por loja Aliexpress 
 
+# [👆 TÓPICOS](#tópicos)
+
 ## Melhores condições de frete
 
 1 - AliExpress Standar Shieping
@@ -155,6 +168,8 @@ Baixe a imagem de um produto na Aliexpress e jogue nesse site e pesquise por loj
 2 - AliExpress direct
 
 3 - E-Packet
+
+# [👆 TÓPICOS](#tópicos)
 
 ## Taxas
 
@@ -164,7 +179,7 @@ Travalhe com produtos abaixo de 50 Dólares para não ser cobrado essa taxa
 
 Taxação nos Correios de 15 reais
 
----
+# [👆 TÓPICOS](#tópicos)
 
 # Ferramentas para minerar produto:
 
@@ -199,6 +214,8 @@ Escolher um anúncio e clickar em saiba mais para ir na página do anunciante
 
 11 - Verifique na extensão facebook pixel helper se o "purchase" foi ativo
 
+# [👆 TÓPICOS](#tópicos)
+
 ## 2 - Analisar página do anunciante dropshieping
 
 Com a extensão Ali Hunter podemos analisar a pagina do anunciante dropshieping e verificar estatísticas da página, como suas últimas compras, produtos mais vendidos, podemos também pegar o tema da página, ver os app que pagina está usando, etc
@@ -215,6 +232,8 @@ Com a extensão Ali Hunter podemos analisar a pagina do anunciante dropshieping 
 
 6- Em orders consigo ver as últimas vendas dessa loja. Só tenho direito a ver 5 orders, caso contrário, tenho que pagar
 
+# [👆 TÓPICOS](#tópicos)
+
 ## 3 - Usar a ferramenta de anúncios do facebook 
 
 https://web.facebook.com/business/tools/ads-manager?_rdc=1&_rdr
@@ -225,9 +244,13 @@ Entro na pagina do anunciante
 
 Combino as extensões Ali Hunter e Facebook Pixel Helper
 
+# [👆 TÓPICOS](#tópicos)
+
 ## 4 - Utilizar o mercado livre tendências 
 
 tendencias.mercadolivre.com
+
+# [👆 TÓPICOS](#tópicos)
 
 ## 5 - Utilizo o site gringo abaixo para minerar produtos que são importados
 
@@ -235,10 +258,13 @@ asseenontvlive.com
 
 ecomhunt.com
 
+# [👆 TÓPICOS](#tópicos)
+
 ## 6 - Utilizo o site abaixo para minerar produtos brasileiros:
 
 polishop.com.br
 
+# [👆 TÓPICOS](#tópicos)
 
 ## 7 - Utilizar plataformas pagas
 
