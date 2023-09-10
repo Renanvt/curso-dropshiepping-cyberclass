@@ -1,3 +1,10 @@
+[⬅️](https://github.com/Renanvt/curso-dropshiepping-cyberclass/tree/main)
+# Tópicos
+
+[Gatilhos mentais](#gatinhos-mentais)
+
+[Gatilhos mentais complexos](#gatilhos-mentais-complexos)
+
 # Gatinhos mentais
 
 É um turbo no qual através da copy você vai mostrar pra pessoa que ela precisa do produto
@@ -8,7 +15,7 @@ Você precisa ter um contexto para estar utilizando um gatilho mental
 
 Antes de usar gatilhos mentais Precisa contextualizar o seu cliente sobre o problema e a solução 
 
-## Gatilho mentai da escassez
+## Gatilho mentais da escassez
 
 ## Gatinho mental da ancoragem de preço 
 Exemplo - de R$ 199,90 por R$ 99,90 - 50% de desconto 
@@ -25,7 +32,7 @@ Exemplo pessoas compraram o produto e gravaram video dizendo q a base do vestido
 
 "Novidade que chegou dos EUA para a sua casa"
 
----
+# [👆 TÓPICOS](#tópicos)
 
 # Gatilhos mentais complexos
 
@@ -53,3 +60,12 @@ Problema a longo prazo: A pessoa pode não conseguir um namoro com a pessoa que 
 
 Solução: mostrar tudo oque o Deliniador de sobrancelha pode fazer de modo que resolva o problema da pessoa
 
+## Prova social
+
+![Prova Social](../../img/Prova%20Social%20Ecommerce.png)
+
+![Prova Social 2](../../img/Prova%20Social%20Ecommerce%202.png)
+
+![Prova Social 3](../../img/Prova%20Social%20Ecommerce%203.png)
+
+# [👆 TÓPICOS](#tópicos)

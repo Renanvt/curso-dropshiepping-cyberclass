@@ -1,3 +1,14 @@
+[⬅️](https://github.com/Renanvt/curso-dropshiepping-cyberclass/tree/main)
+# Tópicos
+
+[Como descobrir um fornecedor confiável](#como-descobrir-um-fornecedor-confiável)
+
+[Como descobrir um fornecedor barato](#como-descobrir-um-fornecedor-barato)
+
+[Melhores condições de frete](#melhores-condições-de-frete)
+
+[Taxas](#taxas)
+
 # Como descobrir um fornecedor confiável 
 
 Pesquiso na EliExpress por um produto vencedor
@@ -15,6 +26,9 @@ Verificar quanto tempo essa loja está ativa na Aliexpress, no mínimo 1 ano é 
 
 Ver oque as pessoas estão comentando sobre o produto 
 
+# [👆 TÓPICOS](#tópicos)
+
+
 ## Como descobrir um fornecedor barato
 
 Olhe na página do forneço outro produto semelhante e mais barato
@@ -28,6 +42,9 @@ Compro um produto e vendo ele pelo valor da compra × 3. Exemplo
 Vendo ele por 97
 
 O algoritmo da AliExpress trabalha com associações de images, mostrando outros fornecedores/vendedores que estão trabalhando com a mesma imagem nos resultados de busca. Sabendo disso vamos utilizar uma ferramenta que mostra outros fornecedores que estão trabalhando com essa mesma imagem em uma determinada loja
+
+# [👆 TÓPICOS](#tópicos)
+
 
 ## Vamos utilizar o Site:
 
@@ -43,6 +60,9 @@ Baixe a imagem de um produto na Aliexpress e jogue nesse site e pesquise por loj
 
 3 - E-Packet
 
+# [👆 TÓPICOS](#tópicos)
+
+
 ## Taxas
 
 Taxa de imposto sobre o produto import
@@ -50,3 +70,5 @@ Taxa de imposto sobre o produto import
 Travalhe com produtos abaixo de 50 Dólares para não ser cobrado essa taxa
 
 Taxação nos Correios de 15 reais, pra não ficar ter esse tipo de taxa, envie na modalidade certa
+
+# [👆 TÓPICOS](#tópicos)

@@ -1,3 +1,4 @@
+[⬅️](https://github.com/Renanvt/curso-dropshiepping-cyberclass/tree/main)
 # Criação na Shopefy
 
 A shopeefy dá 14 dias de graça 
@@ -55,12 +56,16 @@ Vou no logo e em camada de ajudeste - gradiente - crio um novo gradiente com as 
 Crio um gradiente linear no fundo com as cores salva na paleta de cores
 
 # Criar o banner no photoshop
- 
+
 1 - Defino q tipo de banner será criado
 2 - Procuro inspirações no behance
 3 - Crio um documento no photoshop com as dimensões do banner do behance
 4 - Procuro elementos no freepik
 5 - Crio o banner
+
+![Design Ecommerce](../../img/Design%20Ecommerce%20.png)
+
+![Site Dropshieping](../../img/Site%20Dropshiepping.png)
 
 ## Crio a conta na shopeefy
 

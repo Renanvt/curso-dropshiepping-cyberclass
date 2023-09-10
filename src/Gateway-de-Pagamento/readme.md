@@ -1,3 +1,4 @@
+[⬅️](https://github.com/Renanvt/curso-dropshiepping-cyberclass/tree/main)
 # Gatway de pagamento
 
 ## Mercado pago
@@ -49,6 +50,12 @@ Palavras chave:
 Products
 Themes
 Orders
+
+[Yamp Configuração](../../img/Yamp%20Configuracao.png)
+
+[Yamp Configuração 2](../../img/Yamp%20Configuracao%202.png)
+
+[Yamp Configuração 3](../../img/Yamp%20Configuracao%203.png)
 
 ## Na shopeefy:
 

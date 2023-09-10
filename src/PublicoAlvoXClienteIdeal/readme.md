@@ -19,3 +19,7 @@ Produro: Massageador de pescoço
 Pessoas com mais de 30 anos tem tendência de comprar esse tipo de produto
 
 Não limite muito o seu público, pois pode atrapalhar pra vender
+
+![Consumidor](../../img/Consumidor.png)
+
+![Publico alvo x Cliente Ideal](../../img/Publico%20Alvo%20e%20Cliente%20ideal.png)
