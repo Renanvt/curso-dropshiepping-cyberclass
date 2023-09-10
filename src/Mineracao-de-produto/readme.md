@@ -1,5 +1,35 @@
 # Mineração de produtos
 
+# Tópicos
+
+[Oque vende mais? Loja genérica ou loja nichada?](#oque-vende-mais-loja-genérica-ou-loja-nichada)
+
+[Os principais nichos do Brasil](#os-principais-nichos-do-brasil)
+
+[Esteira de produtos](#esteira-de-produtos)
+
+[Como descobrir um fornecedor confiável](#como-descobrir-um-fornecedor-confiável)
+
+[Como descobrir um fornecedor barato](#como-descobrir-um-fornecedor-barato)
+
+[Melhores condições de frete](#melhores-condições-de-frete)
+
+[Taxas](#taxas)
+
+[Ferramenta para minerar produtos](#ferramentas-para-minerar-produto)
+
+[Analisar página do anunciante dropshieping](#2---analisar-página-do-anunciante-dropshieping)
+
+[3 - Usar a ferramenta de anúncios do facebook ](#3---usar-a-ferramenta-de-anúncios-do-facebook)
+
+[4 - Utilizar o mercado livre tendências ](#4---utilizar-o-mercado-livre-tendências)
+
+[5 - Utilizo o site gringo abaixo para minerar produtos que são importados](#5---utilizo-o-site-gringo-abaixo-para-minerar-produtos-que-são-importados)
+
+[6 - Utilizo o site abaixo para minerar produtos brasileiros](#6---utilizo-o-site-abaixo-para-minerar-produtos-brasileiros)
+
+[7 - Utilizar plataformas pagas](#7---utilizar-plataformas-pagas)
+
 É de extrema importância você separar um dia da semana para minerar produtos 
 
 1. Encontrar o produto
